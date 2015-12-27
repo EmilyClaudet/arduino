@@ -1,3 +1,5 @@
+// Requires arduino board, 8 LEDS, 8 resistors (330 ohm) and 10 jump cables
+
 
 int ledPins[] = {2,3,4,5,6,7,8,9};
 // setting array for digital outputs
