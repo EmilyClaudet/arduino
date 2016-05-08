@@ -1,2 +1,2 @@
 #Arduino
-My repo for arduino projects
+My repo for Arduino projects, big and small.
